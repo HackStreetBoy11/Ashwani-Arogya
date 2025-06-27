@@ -55,10 +55,8 @@ Ashwani-Arogya/
 
 | Name         | Role                 | LinkedIn                                              |
 | ------------ | -------------------- | ----------------------------------------------------- |
-| Varun Sammal | Full Stack Developer | [LinkedIn](https://www.linkedin.com/in/your-profile/) |
-| John Doe     | Frontend Developer   | [LinkedIn](https://www.linkedin.com/in/your-profile/) |
-| Jane Smith   | Backend Developer    | [LinkedIn](https://www.linkedin.com/in/your-profile/) |
-| Rahul Kumar  | UI/UX Designer       | [LinkedIn](https://www.linkedin.com/in/your-profile/) |
+| Varun Sammal | Full Stack Developer | [LinkedIn](https://www.linkedin.com/in/varun-sammal-771122256/) |
+| Tanishk Kandpal    | Frontend Developer   | [LinkedIn](https://www.linkedin.com/in/tanishk-kandpal-clone1311/) |
 
 
 ---
