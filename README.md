@@ -22,6 +22,10 @@
 
 ![Home Screenshot](screenshots/home.png)
 ![Sign Page](screenshots/sign.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
+![Doctor Page](screenshots/doctor.png)
+![Admin Screenshot](screenshots/admin.png)
+![Appointment Page](screenshots/appointment.png)
 
 ---
 
