@@ -49,8 +49,8 @@ const Login = () => {
         <h2>Sign In</h2>
         <p>Please Login To Continue</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat culpa
-          voluptas expedita itaque ex, totam ad quod error?
+          "Welcome back to Ashwani Arogya. Log in to manage your appointments, view records, and stay connected with your healthcare journey."
+
         </p>
         <form onSubmit={handleLogin}>
           <input
